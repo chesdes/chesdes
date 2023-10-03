@@ -45,7 +45,7 @@
 <h3 align="center">Contacts:</h3>
 
 <div align="center"> 
-  <a href="https://t.me/chesdes9"> 
+  <a href="https://t.me/chesdes"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="60" height="60" alt="telegram"/> 
   </a> 
   <a href="https://discordapp.com/users/540003900472950784"> 
