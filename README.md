@@ -1,9 +1,7 @@
 <h1 align="center">✨Hello! Im Matvey Chesnokov (chesdes)</h1>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e4736m7qnqcl124pshbbinzabutsy6zck76vzlwq9cg&ep=v1_gifs_search&rid=giphy.gif&ct=g" height=170px>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@chesdes">
-  <img src="https://media3.giphy.com/media/yFQ0ywscgobJK/giphy.gif?cid=ecf05e47gdrj01oqzrqdvedsooj57tk6nf4q0k65g2mzganz&ep=v1_gifs_search&rid=giphy.gif&ct=g" height=170px>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
