@@ -25,17 +25,14 @@
   <a href="https://www.sqlite.org/index.html"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original.svg" width="60" height="60" alt="sqlite"/>
   </a>
+  <a href="https://kotlinlang.org"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/kotlin/kotlin-original.svg" width="60" height="60" alt="Kotlin"/> 
+  </a>
 </div>
 
 <h3 align="center">Learn:</h3>
 
 <div align="center"> 
-  <a href="https://kotlinlang.org"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/kotlin/kotlin-original.svg" width="60" height="60" alt="Kotlin"/> 
-  </a>
-  <a href="https://www.java.com/"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" width="60" height="60" alt="Java"/> 
-  </a>
   <a href="https://developer.android.com/studio"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/androidstudio/androidstudio-original.svg" width="60" height="60" alt="Android Studio"/> 
   </a>
