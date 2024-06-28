@@ -1,9 +1,5 @@
 <h1 align="center">✨Hello! Im Matvey Chesnokov (chesdes)</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@chesdes">
-</div>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center"> 
