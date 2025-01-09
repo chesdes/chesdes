@@ -28,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/androidstudio/androidstudio-original.svg" width="60" height="60" alt="Android Studio"/> 
   </a>
   <a href="https://flutter.dev/">
-    <img src="https://storage.googleapis.com/cms-storage-bucket/64d67700f8293a9dc827.svg" width="60" height="60" alt="flutter"/>
+    <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" width="60" height="60" alt="flutter"/>
   </a>
 </div>
 
