@@ -1,40 +1,19 @@
-<h1 align="center">✨Hello! Im Matvey Chesnokov (chesdes)</h1>
+<h1 align="center">💫Hi! Im Matvey Chesnokov (chesdes)</h1>
 
-<h3 align="center">Main directions:</h3>
+### 📝 About me:
+#### I study and write what I like, but there is no clear direction. I write funny projects, of which only a few receive a personal repository on github =]
 
-<div align="center">
-  <a href="https://flutter.dev/">
-    <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" width="100" height="100" alt="flutter"/>
-  </a>
-  <a href="https://www.python.org"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" height="100" alt="python"/> 
-  </a>
-</div>
+### 🛠️ Languages and tools:
+![Dart](https://img.shields.io/badge/-dart-8899aa?style=for-the-badge&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-8899aa?style=for-the-badge&logo=flutter) 
+![Python](https://img.shields.io/badge/-python-8899aa?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-8899aa?style=for-the-badge&logo=JavaScript)
+![Git](https://img.shields.io/badge/-GIT-8899aa?style=for-the-badge&logo=git)
+![MySQL](https://img.shields.io/badge/-mysql-8899aa?style=for-the-badge&logo=mysql)
 
-<h3 align="center">Tools:</h3>
+### 📞 Contacts:
+[![Telegram](https://img.shields.io/badge/-telegram-8899aa?style=for-the-badge&logo=telegram)](https://t.me/chesdes)
 
-<div align="center"> 
-  <a href="https://aiogram.dev"> 
-    <img src="https://aiogram.dev/img/logo.c95d892f.png" width="100" height="100" alt="aiogram"/>
-  </a>
-  <a href="https://git-scm.com"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="100" height="100" alt="git"/>
-  </a>
-  <a href="https://www.mysql.com"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="100" height="100" alt="MySQL"/>
-  </a>
-  <a href="https://www.sqlite.org/index.html"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original.svg" width="100" height="100" alt="sqlite"/>
-</div>
-
-<h3 align="center">Contacts:</h3>
-
-<div align="center"> 
-  <a href="https://t.me/chesdes"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="100" height="100" alt="telegram"/> 
-  </a> 
-  <a href="https://vk.com/chesdes9">
-    <img src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/TfKk/QGyS93cW7/PNG%20-%20digital/VK%20Logo.png" width="100" height="100" alt="vk"/>
-  </a>
-</div>
-
+### 🕛 WakaTime:
+![WakaTime]("https://github-readme-stats.vercel.app/api/wakatime?username=@chesdes")
+![Cat](https://media.tenor.com/owsPz6f26FcAAAAM/happy-cat-silly-cat.gif)
