@@ -16,4 +16,3 @@
 
 ### 🕛 WakaTime:
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@chesdes)
-![Cat](https://media.tenor.com/owsPz6f26FcAAAAM/happy-cat-silly-cat.gif)
