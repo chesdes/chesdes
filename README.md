@@ -1,4 +1,4 @@
-<h1 align="center">💫Hi! Im Matvey Chesnokov (chesdes)</h1>
+<h1 align="center">💫Hi! Im Mathew Chesnokov (chesdes)</h1>
 
 ### 📝 About me:
 #### I study and write what I like, but there is no clear direction. I write funny projects, of which only a few receive a personal repository on github =]
