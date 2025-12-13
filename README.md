@@ -7,6 +7,8 @@
 ![Dart](https://img.shields.io/badge/-dart-8899aa?style=for-the-badge&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-8899aa?style=for-the-badge&logo=flutter) 
 ![Python](https://img.shields.io/badge/-python-8899aa?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/-fastapi-8899aa?style=for-the-badge&logo=fastapi)
+![Redis](https://img.shields.io/badge/-redis-8899aa?style=for-the-badge&logo=redis)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-8899aa?style=for-the-badge&logo=JavaScript)
 ![Git](https://img.shields.io/badge/-GIT-8899aa?style=for-the-badge&logo=git)
 ![MySQL](https://img.shields.io/badge/-mysql-8899aa?style=for-the-badge&logo=mysql)
