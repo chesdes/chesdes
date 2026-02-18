@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-8899aa?style=for-the-badge&logo=JavaScript)
 ![Git](https://img.shields.io/badge/-GIT-8899aa?style=for-the-badge&logo=git)
 ![MySQL](https://img.shields.io/badge/-mysql-8899aa?style=for-the-badge&logo=mysql)
+![Docker](https://img.shields.io/badge/-docker-8899aa?style=for-the-badge&logo=docker)
 
 ### 📞 Contacts:
 [![Telegram](https://img.shields.io/badge/-telegram-8899aa?style=for-the-badge&logo=telegram)](https://t.me/chesdesq)
