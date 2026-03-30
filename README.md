@@ -4,9 +4,8 @@
 #### I study and write what I like, but there is no clear direction. I write funny projects, of which only a few receive a personal repository on github =]
 
 ### 🛠️ Languages and tools:
-![Dart](https://img.shields.io/badge/-dart-8899aa?style=for-the-badge&logo=dart)
-![Flutter](https://img.shields.io/badge/-Flutter-8899aa?style=for-the-badge&logo=flutter) 
 ![Python](https://img.shields.io/badge/-python-8899aa?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/-c++-8899aa?style=for-the-badge&logo=cplusplus)
 ![FastAPI](https://img.shields.io/badge/-fastapi-8899aa?style=for-the-badge&logo=fastapi)
 ![Redis](https://img.shields.io/badge/-redis-8899aa?style=for-the-badge&logo=redis)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-8899aa?style=for-the-badge&logo=JavaScript)
