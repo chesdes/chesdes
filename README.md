@@ -6,6 +6,7 @@
 ### 🛠️ Languages and tools:
 ![Python](https://img.shields.io/badge/-python-1E3A5F?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-c++-1E3A5F?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/-c%23-1E3A5F?style=for-the-badge&logo=csharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1E3A5F?style=for-the-badge&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-nodejs-1E3A5F?style=for-the-badge&logo=nodedotjs)
 ![FastAPI](https://img.shields.io/badge/-fastapi-1E3A5F?style=for-the-badge&logo=fastapi)
